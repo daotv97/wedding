@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/daotv97/wedding/static/css/main.437ca63c.css",
-    "main.js": "/daotv97/wedding/static/js/main.09890a2e.js",
-    "static/media/tt.wedding.2.png": "/daotv97/wedding/static/media/tt.wedding.2.28dfdc6e894d878835fa.png",
-    "static/media/tt.wedding.png": "/daotv97/wedding/static/media/tt.wedding.a5ae5fa8ba13d08e0997.png",
-    "static/media/step1.png": "/daotv97/wedding/static/media/step1.79b080612f6b27932d73.png",
-    "static/media/mobile.wedding.png": "/daotv97/wedding/static/media/mobile.wedding.d08e5fa2c3b16d215ae1.png",
-    "static/media/step2.png": "/daotv97/wedding/static/media/step2.0c4f08fec395aef8fefb.png",
-    "static/media/step3.png": "/daotv97/wedding/static/media/step3.46194ee5dbca1c1e8a2f.png",
-    "static/media/chu-re.png": "/daotv97/wedding/static/media/chu-re.5574ebd3e41b6b7cf183.png",
-    "static/media/mobile.wedding.2.png": "/daotv97/wedding/static/media/mobile.wedding.2.1d9159ac2c4696baace4.png",
-    "static/media/co-dau.png": "/daotv97/wedding/static/media/co-dau.3e2124a6e45f4f5e44d9.png",
-    "static/media/frame.png": "/daotv97/wedding/static/media/frame.f48b5a0522eaad6e33ec.png",
-    "static/media/title.bg.png": "/daotv97/wedding/static/media/title.bg.dd11a0915fceda5e0d27.png",
-    "static/media/lg.svg?io9a6k": "/daotv97/wedding/static/media/lg.09cd8e9be7081f216644.svg",
-    "static/media/lg.woff?io9a6k": "/daotv97/wedding/static/media/lg.356a0e9cb064c7a196c6.woff",
-    "static/media/lg.ttf?io9a6k": "/daotv97/wedding/static/media/lg.747d038541bfc6bb8ea9.ttf",
-    "static/media/lg.woff2?io9a6k": "/daotv97/wedding/static/media/lg.64b800aa30714fd916dc.woff2",
-    "index.html": "/daotv97/wedding/index.html",
-    "main.437ca63c.css.map": "/daotv97/wedding/static/css/main.437ca63c.css.map",
-    "main.09890a2e.js.map": "/daotv97/wedding/static/js/main.09890a2e.js.map"
+    "main.css": "/wedding/static/css/main.f8c597fb.css",
+    "main.js": "/wedding/static/js/main.1ae2759d.js",
+    "static/media/tt.wedding.2.png": "/wedding/static/media/tt.wedding.2.28dfdc6e894d878835fa.png",
+    "static/media/tt.wedding.png": "/wedding/static/media/tt.wedding.a5ae5fa8ba13d08e0997.png",
+    "static/media/step1.png": "/wedding/static/media/step1.79b080612f6b27932d73.png",
+    "static/media/mobile.wedding.png": "/wedding/static/media/mobile.wedding.d08e5fa2c3b16d215ae1.png",
+    "static/media/step2.png": "/wedding/static/media/step2.0c4f08fec395aef8fefb.png",
+    "static/media/step3.png": "/wedding/static/media/step3.46194ee5dbca1c1e8a2f.png",
+    "static/media/chu-re.png": "/wedding/static/media/chu-re.5574ebd3e41b6b7cf183.png",
+    "static/media/mobile.wedding.2.png": "/wedding/static/media/mobile.wedding.2.1d9159ac2c4696baace4.png",
+    "static/media/co-dau.png": "/wedding/static/media/co-dau.3e2124a6e45f4f5e44d9.png",
+    "static/media/frame.png": "/wedding/static/media/frame.f48b5a0522eaad6e33ec.png",
+    "static/media/title.bg.png": "/wedding/static/media/title.bg.dd11a0915fceda5e0d27.png",
+    "static/media/lg.svg?io9a6k": "/wedding/static/media/lg.09cd8e9be7081f216644.svg",
+    "static/media/lg.woff?io9a6k": "/wedding/static/media/lg.356a0e9cb064c7a196c6.woff",
+    "static/media/lg.ttf?io9a6k": "/wedding/static/media/lg.747d038541bfc6bb8ea9.ttf",
+    "static/media/lg.woff2?io9a6k": "/wedding/static/media/lg.64b800aa30714fd916dc.woff2",
+    "index.html": "/wedding/index.html",
+    "main.f8c597fb.css.map": "/wedding/static/css/main.f8c597fb.css.map",
+    "main.1ae2759d.js.map": "/wedding/static/js/main.1ae2759d.js.map"
   },
   "entrypoints": [
-    "static/css/main.437ca63c.css",
-    "static/js/main.09890a2e.js"
+    "static/css/main.f8c597fb.css",
+    "static/js/main.1ae2759d.js"
   ]
 }
