@@ -2,7 +2,7 @@
   "name": "wedding-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/daotv97/wedding",
+  "homepage": "https://daotv97.github.io/wedding",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
